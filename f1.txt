@@ -1,1 +1,1 @@
-file 1 in master
+file 1 in master modified in branch2
